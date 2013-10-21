@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Rúnar Berg Baugsson Sigríðarson</title><link href="//runarberg.github.io/" rel="alternate"></link><link href="//runarberg.github.io/feeds/all.atom.xml" rel="self"></link><id>//runarberg.github.io/</id><updated>2013-10-16T12:50:00+00:00</updated><entry><title>Kennileiti Eulers</title><link href="//runarberg.github.io/paelingar/kennileiti-eulers.html" rel="alternate"></link><updated>2013-10-16T12:50:00+00:00</updated><author><name>Rúnar Berg Baugsson Sigríðarson</name></author><id>tag://runarberg.github.io,2013-10-16:paelingar/kennileiti-eulers.html</id><summary type="html">&lt;dl class="docutils"&gt;
+&lt;dt&gt;Númer 1:&lt;/dt&gt;
+&lt;dd&gt;Það er til tala sem heitir &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; sem hefur þann eiginleika að
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/dd&gt;
+&lt;dt&gt;Númer 2:&lt;/dt&gt;
+&lt;dd&gt;Það er til tala sem heitir &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;π&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og er hlutfall milli ummáls
+hrings og geisla (það er lengd línu frá miðju hrings út á enda).&lt;/dd&gt;
+&lt;dt&gt;Númer 3:&lt;/dt&gt;
+&lt;dd&gt;Það eru til föll &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;. Ímyndum okkur
+hring (svokallaðan einingarhring) sem hefur miðju á hnitunum
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt; og geisla &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;. Nú ef við byrjum á þeim
+punkti á hringjaðrinum sem er lengst til hægri, þ.e. hnitunum
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;, og ferðumst &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;/mrow&gt;&lt;/math&gt; hluta hrings
+meðfram jaðrinum, þá endum við á hnitunum &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;.&lt;/dd&gt;
+&lt;dt&gt;Númer 5:&lt;/dt&gt;
+&lt;dd&gt;Það er til fall &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/math&gt; sem vex með hraða &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/math&gt; í punkti
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;.&lt;/dd&gt;
+&lt;dt&gt;Númer 6:&lt;/dt&gt;
+&lt;dd&gt;Vöxtur falls &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; í punktinum &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;—táknaður
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;/mrow&gt;&lt;/math&gt; eða &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;f&lt;/mi&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;—er breyting á
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt; miðað við örsmáa breytingu á &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;.&lt;/dd&gt;
+&lt;dt&gt;Númer 7:&lt;/dt&gt;
+&lt;dd&gt;Vöxtur &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; við punktinn &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; er &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og
+vöxtur &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; við sama punkt er &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;.&lt;/dd&gt;
+&lt;dt&gt;Númer 8:&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first"&gt;Sum föll af &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; má nálgast með því að meta fallið, við
+ákveðin punkt &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; með margliðu af gerðinni&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;≈&lt;/mo&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;f&lt;/mi&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;f&lt;/mi&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;f&lt;/mi&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+&lt;p class="last"&gt;kölluð &lt;em&gt;Taylor margliða&lt;/em&gt;.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Nú ætla ég að sýna fram á svolítið magnað. Í forsendunum hér að ofan
+minntist ég á þrjá fasta. Þeir eru allir svolítið klikkaðir. Engan
+þeirra get ég skrifað með venjulegum tölustöfum.&lt;/p&gt;
+&lt;p&gt;Í fyrsta lagi er það &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;π&lt;/mi&gt;&lt;mo&gt;≈&lt;/mo&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;mo&gt;.&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mn&gt;8&lt;/mn&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;8&lt;/mn&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mn&gt;7&lt;/mn&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;7&lt;/mn&gt;&lt;mn&gt;9&lt;/mn&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mn&gt;8&lt;/mn&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;…,
+með óendanlega marga aukastafi. Í öðru lagi er það &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;mo&gt;≈&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;.&lt;/mo&gt;&lt;mn&gt;7&lt;/mn&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;8&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mn&gt;8&lt;/mn&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;8&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mn&gt;8&lt;/mn&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mn&gt;9&lt;/mn&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;…, líka með óendanlega marga aukastafi, og í
+þriðja lagi er það &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; sem ég get ekki einu sinni reynt að
+tákna, hún er svo klikkuð. Það eina sem ég get sagt um &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; er að
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;, &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;, &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt; og svo byrja
+ég aftur með &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;, &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt; og svo framvegis.&lt;/p&gt;
+&lt;p&gt;Það er því alveg magnað sem ég heyrði um daginn.&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;.&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+&lt;p&gt;Þessar þrjár klikkuðu tölur, margfeldi tveggja settar sem veldisvísir
+þeirra þriðju, verður að einföldustu tölu sem ég get ímyndað
+mér. Einn. Ein eining, eitt af einhverju. Mengi alls þess sem er
+stakt. Einfaldara verður það ekki.&lt;/p&gt;
+&lt;p&gt;Hvernig stendur á því að þessar þrjár klikkuðu tölur mynda svona
+einfalda og skýra lausn? Jú, sjáum til, útfrá forsendu 8 hér að ofan
+getum við nálgað sínus, kósínus, veldismögnunarfallið með Taylor
+margliðu. Reyndar verður nálgunin nákvæm þegar margliðan inniheldur
+óendanlega marga liði.&lt;/p&gt;
+&lt;p&gt;Byrjum á veldismögnunarfallinu &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/math&gt; sem vex um &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/math&gt; við
+punktinn &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; eins og ég gaf mér í (5). Skoðum Taylor margliðuna
+í kringum punkinn &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;.&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;mo&gt;.&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+&lt;p&gt;Við vitum að &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt; svo við getum einfaldað.&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+&lt;p&gt;Geymum þetta í bili og skoðum Taylor margliðuna af sínus við punktinn
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;, það er y-hnit ferðalags um einingarhringinn, sem byrjar
+í punktinum &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt; og endar &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;/mrow&gt;&lt;/math&gt; hluta
+hrings síðar. Eða í einföldum orðum. Skoðum Taylor margliðuna við
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;.&lt;/p&gt;
+&lt;p&gt;Ég var búinn að segja í (7) að vöxtur &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; við &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; er
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mo&gt;sin&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og vöxtur &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; við
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; er &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mo&gt;sin&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msup&gt;&lt;mo&gt;cos&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;. Og svo heldur þetta áfram… &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mo&gt;sin&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msup&gt;&lt;mo&gt;cos&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;msup&gt;&lt;mo&gt;sin&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;. Taylor
+margliðan lítur því út svo…&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mtd&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msup&gt;&lt;mo&gt;sin&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mo&gt;sin&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mo&gt;sin&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;/mtd&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;/mtd&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;7&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;7&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+&lt;p&gt;sem sagt, allir oddatöluliðirnir, plúsaðir og mínusaðir saman til
+skiptis.&lt;/p&gt;
+&lt;p&gt;Fyrir kósínus gerist svipað. Nema bara í með slétttölunum í staðin.&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mtd&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msup&gt;&lt;mo&gt;cos&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mo&gt;cos&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;mo&gt;′&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mo&gt;cos&lt;/mo&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;msup&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;/mtd&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;/mtd&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+&lt;p&gt;sem meikar alveg sens þar sem við erum að skoða x-hnitin af sama
+punktinum og áðan.&lt;/p&gt;
+&lt;p&gt;Tökum eftir því hve naumlík hornaföllin (sínus og kósínus) eru
+veldismögnunar fallinu. Við gætum næstum plúsað þau saman, ef ekki
+væri fyrir þennan mínus sem kemur á milli annanhvern lið í
+hornaföllunum. Rifjum því upp fyrstu forsenduna sem ég gaf mér…&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Númer 1:&lt;/dt&gt;
+&lt;dd&gt;Það er til tala sem heitir &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; sem hefur þann eiginleika að
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;og sjáum líka að hækkum við ítrekað veldisvísi &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; breytist
+formerki gildisins með &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt; takti,
+þ.e. &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;;&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;, en talan skiptir á milli þess að vera
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt; í &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt; takti,
+þ.e. &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;;&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;. Það er eins og þessi undraverða tala hafi
+verið fædd í þeim tilgangi að passa inn í Taylor margliðuna fyrir
+Kósínus og Sínus, því ef við byrjum með &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/math&gt; og hækkum svo
+veldisvísin um einn milli þess sem við plúsum og mínusum liði Taylor
+margliðanna fyrir kósínus og sínus, þá fáum við…&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msup&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msup&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/msup&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;/msup&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;-&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;mo&gt;!&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mo&gt;⋯&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+&lt;p&gt;sem lýtur nákvæmlega út eins og veldismögnunarfallið, og ef við
+margföldum &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; við veldisvísi &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;, þá fáum við sama
+fallið, þ.e. við skrifum formúlu Eulers&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+&lt;p&gt;sem er geðveikt.&lt;/p&gt;
+&lt;p&gt;Þetta verður betra. Við sáum áðan að kósínus og sínus föllin gefa okkur
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; hnit eftir að hafa ferðast
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;/mrow&gt;&lt;/math&gt; hluta hrings meðfram ummáli einingahringsins
+sem byrjar á &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;. Ef það er til einhver geðveik tala sem
+leyfir okkur að ferðast nákvæmlega einn hring um einingarhringinn, það
+er við byrjum á &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt; og endum á &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;, og það
+birtir upp fyrir okkur.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Númer 2:&lt;/dt&gt;
+&lt;dd&gt;Það er til tala sem heitir &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;π&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og er hlutfall milli ummáls
+hrings og geisla (það er lengd línu frá miðju hrings út á enda).&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Setjum &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og sjáum að ef við ferðumst
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mfrac&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt; semsagt heilan hring frá þessum
+töfra-punkti, þá endum við aftur á sama staðnum. Við erum jú búinn að
+ferðast heilan hring samkvæmt skilgreiningu. Svo að sínus af núll
+hlítur að vera jafn mikið og sínus af &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og kósínus af núll
+hlítur að vera jafn mikið og kósínus af &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;, því við erum að
+skoða &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; og &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt; hnit sama punktsins, þ.e. með táknum
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt; og &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+&lt;mrow&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;/math&gt;.&lt;/p&gt;
+&lt;p&gt;Sett inn í formúlu Eulers verður þetta&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;/mtd&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;cos&lt;/mo&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;sin&lt;/mo&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mtd&gt;&lt;/mtr&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;/mtd&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mtd&gt;&lt;/mtr&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;/mtd&gt;
+&lt;mtd&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;.&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+&lt;p&gt;Ég ver að endurtaka þessa tæru snilld, sem kölluð er kennileiti Eulers.&lt;/p&gt;
+&lt;div&gt;
+&lt;math xmlns="http://www.w3.org/1998/Math/MathML" mode="display"&gt;
+&lt;mtable&gt;
+&lt;mtr&gt;
+&lt;mtd&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;
+&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;τ&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;.&lt;/mo&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;
+&lt;/div&gt;
+</summary></entry></feed>

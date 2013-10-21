@@ -1,0 +1,24 @@
+.article-header {
+    position: relative;
+    text-align: center;
+    h1 {
+        font-size: 2.5em;
+    }
+    address {
+        background: none repeat scroll 0 0 #FFF;
+        display: inline-block;
+        font-size: 1.25em;
+        padding: 0 1em;
+        &:after {
+            border-top: 1px solid black;
+            content: "";
+            display: block;
+            height: 2px;
+            position: absolute;
+            right: 0;
+            left: 0;
+            bottom: .5em;
+            z-index: -1;
+        }
+    }
+}
