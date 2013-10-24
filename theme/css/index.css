@@ -16,7 +16,7 @@ textarea {
 }
 html {
   color: #222;
-  font-size: 1em;
+  font-size: 18px;
   line-height: 1.4;
 }
 a {
@@ -135,6 +135,7 @@ p {
   z-index: -1;
 }
 .main-intro {
+  font-family: "PT Sans", sans-serif;
   margin: 1.5em auto;
   text-align: justify;
   width: 80%;
@@ -153,8 +154,11 @@ p {
     margin: auto auto;
   }
 }
+.main-nav h1 {
+  text-align: center;
+}
 .main-nav .main-toc {
-  font-size: 1.5em;
+  font-size: 1.2em;
   list-style-type: upper-roman;
 }
 .main-nav .main-toc ol {

@@ -24,6 +24,35 @@
   font-weight: bold;
   font-style: italic;
 }
+@font-face {
+  font-family: "Rosario";
+  src: local(Rosario), local(Rosario), url(../fonts/Rosario-Regular.ttf);
+}
+@font-face {
+  font-family: "Rosario";
+  src: local(Rosario Bold), local(Rosario-Bold), url(../fonts/Rosario-Bold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Rosario";
+  src: local(Rosario Italic), local(Rosario-Italic), url(../fonts/Rosario-Italic.ttf);
+  font-style: italic;
+}
+@font-face {
+  font-family: "Rosario";
+  src: local(Rosario Bold Italic), local(Rosario-Bold-Italic), url(../fonts/Rosario-BoldItalic.ttf);
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: "PT Sans";
+  src: local(PTC55), url(../fonts/PTC55F.ttf);
+}
+@font-face {
+  font-family: "PT Sans";
+  src: local(PTC75F), url(../fonts/PTC75F.ttf);
+  font-weight: bold;
+}
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
@@ -36,7 +65,7 @@ textarea {
 }
 html {
   color: #222;
-  font-size: 1em;
+  font-size: 18px;
   line-height: 1.4;
 }
 a {
@@ -142,16 +171,15 @@ p {
   z-index: -1;
 }
 .article-entry {
-  margin: 2em 0.5em;
+  font-family: Rosario;
+  margin: 2.5em 0.5em;
+  text-align: justify;
 }
 @media only screen and (min-width: 800px) {
   .article-entry {
-    max-width: 800px;
+    width: 72%;
     margin: 2em auto;
   }
-}
-.article-entry p {
-  text-align: justify;
 }
 .article-entry dt {
   font-weight: bold;
