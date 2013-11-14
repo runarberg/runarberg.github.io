@@ -1,17 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Rúnar Berg Baugsson Sigríðarson</title><link href="//runarberg.github.io/" rel="alternate"></link><link href="//runarberg.github.io/feeds/all.atom.xml" rel="self"></link><id>//runarberg.github.io/</id><updated>2013-10-16T12:50:00+00:00</updated><entry><title>Kennileiti Eulers</title><link href="//runarberg.github.io/paelingar/kennileiti-eulers.html" rel="alternate"></link><updated>2013-10-16T12:50:00+00:00</updated><author><name>Rúnar Berg Baugsson Sigríðarson</name></author><id>tag://runarberg.github.io,2013-10-16:paelingar/kennileiti-eulers.html</id><summary type="html">&lt;dl class="docutils"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Rúnar Berg Baugsson Sigríðarson</title><link href="//runarberg.github.io/" rel="alternate"></link><link href="//runarberg.github.io/feeds/all.atom.xml" rel="self"></link><id>//runarberg.github.io/</id><updated>2013-10-26T14:32:00+00:00</updated><entry><title>Kapítalísk auðsöfnun</title><link href="//runarberg.github.io/paelingar/kapitalisk-audsofnun.html" rel="alternate"></link><updated>2013-10-26T14:32:00+00:00</updated><author><name>Rúnar Berg Baugsson Sigríðarson</name></author><id>tag://runarberg.github.io,2013-10-26:paelingar/kapitalisk-audsofnun.html</id><summary type="html">&lt;p&gt;Við græðum öll á frjálsum viðskiptum ekki satt? Þegar tveir aðillar
+setjast við samningaborðið og skipta á milli sér góðæfum, þ.e. stunda
+viðskipti, þá er viðskiptin fullkomlega frjáls og öllum til hagsbóta,
+ekki satt? Báðir aðillar eiga jafna möguleika á að græða, og tekið
+saman, ættu öll viðskipti í okkar samfélagi að leiða af sér góðæri og
+velsæld fyrir alla, ekki satt?&lt;/p&gt;
+&lt;p&gt;Jæja, skoðum þetta. Setjum samfélag 10 einstaklinga, sem hver byrjar
+með 100 krónur. Þeim er frjálst að stunda viðskipti sín á milli. Allir
+eru þeir jafn hæfir í viðskiptum og því gætir það handahófi hvor
+græðir og hvor tapar í þessum viðskiptum. Eftir nokkrar umferðir,
+þegar aðilarnir hafa allir stundað sín viðskipti hver sín á milli,
+ágætlega mörgum sinnum, þar sem allir eru jafn hæfir, og allir byrjuðu
+með jafn mikin pening, að þá ættu þeir allir að enda með svipað mikinn
+pening ekki satt? Ef leikurinn er fullkolega sanngjarn, ekki satt?&lt;/p&gt;
+&lt;p&gt;Ég skrifaði forrit sem prófar þetta. Þú getur fiktað í því ef þú
+villt. Prófaðu að keyra það í nokkrar umferðir og sjáðu hvað gerist
+eftir 10 skipti. Einhverjir aðilar eru komnir með meira en, aðrir. En
+það er bara eðlileg hreyfing fjármuna ekki satt?&lt;/p&gt;
+&lt;div class="wealth"&gt; &lt;div class="wealth_display-results"&gt;&lt;/div&gt; &lt;div class="wealth_controls"&gt;&lt;/div&gt; &lt;/div&gt; &lt;script src="//runarberg.github.io/scripts/wealth.js"&gt;&lt;/script&gt;&lt;p&gt;Eftir 20 umferðir eru munurinn orðin aðeins meiri, en það sem þú ættir
+helst að taka eftir er að sömu aðilar og áttu mesta peninginn fyrir
+tíu umferðum síðan, eru ennþá þeir ríkustu (kannski eru þeir hæfari
+en hinir?)&lt;/p&gt;
+&lt;p&gt;Eftir þrjátíu umferðir er allur grunur um sanngjarnt hagkerfi horfinn,
+tveir eða þrír aðilar eiga svo til allan peninginn innan
+hagkerfisins.&lt;/p&gt;
+&lt;p&gt;Fimmtíu umferðum síðar er meirihlutinn mjög fátækur og í mesta lagi
+tveir eða þrír forríkir aðilar, líkast til sömu aðilar og voru ríkir
+þrjátíu umferðum fyrr. Og öll von um að þetta muni jafnast út horfin.&lt;/p&gt;
+&lt;p&gt;Prófaðu þetta aftur með meiri fjármunum, með fleiri
+þátttakendum. Prófaðu 50 þátttakendur, prófaðu 100. Áhrifin verða bara
+verri.&lt;/p&gt;
+&lt;p&gt;Afhverju gerist þetta? Það er einginn klárari í viðskiptum en annar í
+þessu hagkerfi. Þetta eru bara einhverjar tölur ákvarðaðar með
+handahófi, allir eiga jafna möguleika á að græða eða tapa í
+viðskiptum. En hvað þeir græða á viðskiptunum er ekki jafnt, því sumir
+græða meira en aðrir.&lt;/p&gt;
+&lt;p&gt;Hagkerfið bak við súluritið virkar svo:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Allir aðillar byrja með jafna fjármuni.&lt;/li&gt;
+&lt;li&gt;Við hverja umferð er öllum raðað í pör af handahófi&lt;/li&gt;
+&lt;li&gt;Hvert par leggur undir þá upphæð sem fátækari aðilinn á. Þ.e. ef
+annar aðilinn á 100 krónur, en hinn á 150 krónur, þá leggja báðir
+undir 100 krónur. Svo það eru 200 krónur í pottinum&lt;/li&gt;
+&lt;li&gt;Valin er tala af handhófi, einhverstaðar á milli 0 og 1, með meiri
+líkum á að lenda á nær miðjunni en fær.&lt;/li&gt;
+&lt;li&gt;Aðilarnir skipta svo pottinum á milli sín í þeim hlutföllum sem
+talan í nr. 4 bendir til. Ef talan var $0.5$ enda báðir aðilar með
+jafnan hlut úr viðskiptunum, ef talan var $1$, fær annar aðilinn
+allt, ef talan var $0$ fær hinn aðilinn allt.&lt;/li&gt;
+&lt;li&gt;Umferðinni lýkur þegar öll pörin hafa skipt fjármunum sín á milli
+eftir ofangreindum reglum.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ef þið kunnið að lesa JavaScript þá getið þið séð kóðan bak við þetta
+hagkerfi &lt;a class="reference external" href="//runarberg.github.io/scripts/wealth.js"&gt;hérna&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Núna getið þið séð hvers vegna þessi auðsöfnun á sér stað. Eigið fé á
+hverjum tímapunkti setur efri mörk á það hvað maður getur grætt á
+hverjum viðskiptum. Ef ég á 150kr. get ég vænst að græða helminginn af
+meðal fjárhagi hvers þátttakenda plús eigið fé,
+þ.e. $\frac{150+100}{2} = 125\ \textrm{kr.}$ Ég get með öðrum orðum vænst þess að
+græða örlítið meira en sá sem á einungis 80 kr. Því hærra eigið fé,
+þeim mun meira get ég vænst því að græða á viðskiptum. Þeim mun meira
+bil milli ríkra og fáttækra, þeim mun meiri líkur á að það aukist.&lt;/p&gt;
+&lt;p&gt;Og hvað getum við lært á þessu? Jú, aldrei stunda viðskipti við neinn
+sem er ríkar en þið, þeir eiga bara eftir að verða ríkari.&lt;/p&gt;
+</summary></entry><entry><title>Kennileiti Eulers</title><link href="//runarberg.github.io/paelingar/kennileiti-eulers.html" rel="alternate"></link><updated>2013-10-16T12:50:00+00:00</updated><author><name>Rúnar Berg Baugsson Sigríðarson</name></author><id>tag://runarberg.github.io,2013-10-16:paelingar/kennileiti-eulers.html</id><summary type="html">&lt;dl class="docutils"&gt;
 &lt;dt&gt;Númer 1:&lt;/dt&gt;
 &lt;dd&gt;Það er til tala sem heitir $i$ sem hefur þann eiginleika að
 $i^2 = -1$&lt;/dd&gt;
 &lt;dt&gt;Númer 2:&lt;/dt&gt;
-&lt;dd&gt;Það er til tala sem heitir $\tau = 2\pi$ og er hlutfall milli ummáls
-hrings og geisla (það er lengd línu frá miðju hrings út á enda).&lt;/dd&gt;
+&lt;dd&gt;Það er til tala sem heitir $\tau = 2\pi$ og er hlutfall milli
+ummáls hrings og lengd línu frá miðju hans til enda (kölluð
+geisli, eða radíus).&lt;/dd&gt;
 &lt;dt&gt;Númer 3:&lt;/dt&gt;
 &lt;dd&gt;Það eru til föll $\cos x$ og $\sin x$. Ímyndum okkur
 hring (svokallaðan einingarhring) sem hefur miðju á hnitunum
 $(0, 0)$ og geisla $1$. Nú ef við byrjum á þeim
 punkti á hringjaðrinum sem er lengst til hægri, þ.e. hnitunum
-$(0, 1)$, og ferðumst $\frac{x}{\tau}$ hluta hrings
+$(1, 0)$, og ferðumst $\frac{x}{\tau}$ hluta hrings
 meðfram jaðrinum, þá endum við á hnitunum $(\cos x, \sin x)$.&lt;/dd&gt;
 &lt;dt&gt;Númer 5:&lt;/dt&gt;
 &lt;dd&gt;Það er til fall $e^x$ sem vex með hraða $e^x$ í punkti

@@ -15,6 +15,7 @@ textarea {
   color: #222;
 }
 html {
+  background-color: #FDFDFD;
   color: #222;
   font-size: 18px;
   line-height: 1.4;
@@ -94,6 +95,7 @@ h3 a {
 p {
   hypens: auto;
   -moz-hyphens: auto;
+  -ms-hyphens: auto;
   -webkit-hyphens: auto;
 }
 .main-index-div {
@@ -135,7 +137,9 @@ p {
   z-index: -1;
 }
 .main-intro {
-  font-family: "PT Sans", sans-serif;
+  font-family: Rosario sans-serif;
+  font-size: 1.2em;
+  line-height: 1.2em;
   margin: 1.5em auto;
   text-align: justify;
   width: 80%;

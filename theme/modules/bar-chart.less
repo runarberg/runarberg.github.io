@@ -1,0 +1,47 @@
+.bar-chart {
+    rect {
+        stroke: white;
+        fill: #4682B4;
+    }
+
+    .round text {
+        font-size: .8em;
+    }
+
+    text.bar {
+        font-size: 0.85em;
+        fill: white;
+    }
+
+    text.rule {
+        font-size: 0.85em;
+    }
+}
+
+.wealth_controls {
+    font-family: Rosario;
+    font-size: 0.85em;
+    position: relative;
+    & > .prev-next-container {
+        position: absolute;
+        text-align: center;
+        top: 33%;
+        right: 42%;
+    }
+    div {
+        text-align: left;
+    }
+    label {
+        display: inline-block;
+        width: 5em;
+        &:after {
+            content: ":";
+        }
+    }
+    input[type=number] {
+        display: inline-block;
+        margin-left: 1em;
+        text-align: right;
+        width: 5em;
+    }
+}
