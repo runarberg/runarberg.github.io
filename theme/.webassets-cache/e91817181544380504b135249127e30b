@@ -177,6 +177,19 @@ p {
 .article-entry dt {
   font-weight: bold;
 }
+.article-entry figure {
+  text-align: center;
+  width: 100%;
+}
+.article-entry figure img {
+  border: 2px solid black;
+  border-radius: .3em;
+}
+.article-entry figure figcaption {
+  padding: 0.5em 2em 1em;
+  text-align: left;
+  font-size: 0.8em;
+}
 .bar-chart rect {
   stroke: white;
   fill: #4682B4;
@@ -197,10 +210,10 @@ p {
   position: relative;
 }
 .wealth_controls > .prev-next-container {
+  margin-left: 47%;
   position: absolute;
   text-align: center;
   top: 33%;
-  right: 42%;
 }
 .wealth_controls div {
   text-align: left;

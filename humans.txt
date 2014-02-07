@@ -1,15 +1,26 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# AUTHOR
 
-    <name> -- <role> -- <twitter>
+    Rúnar Berg Baugsson <runarberg@zoho.com> <https://www.github.com/runarberg>
 
 # THANKS
 
-    <name>
 
 # TECHNOLOGY COLOPHON
 
+## Hosted on
+    github.com -- source available at <https://www.github.com/runarberg/blogpage>
+
+## Generated with
+    Pelican — the static web generator
+
+## using standards
     HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    
+## and the libreries
+    Normalize.css, jQuery, d3.js, MathJax
+
+## Initialized with
+    html5 Boilerplate
