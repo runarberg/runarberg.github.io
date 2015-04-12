@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Crimson Text";
+  src: url("/assets/fonts/CrimsonText-Roman.ttf");
+}
+@font-face {
+  font-family: "Crimson Text";
+  font-weight: bold;
+  src: url("/assets/fonts/CrimsonText-Bold.ttf");
+}
+@font-face {
+  font-family: "Crimson Text";
+  font-style: italic;
+  src: url("/assets/fonts/CrimsonText-Italic.ttf");
+}
+@font-face {
+  font-family: "Crimson Text";
+  font-style: italic;
+  font-weight: bold;
+  src: url("/assets/fonts/CrimsonText-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "Liberation Serif";
+  src: url("/assets/fonts/LiberationSerif-Regular.ttf");
+}
+@font-face {
+  font-family: "Liberation Serif";
+  font-weight: bold;
+  src: url("/assets/fonts/LiberationSerif-Bold.ttf");
+}
+@font-face {
+  font-family: "Liberation Serif";
+  font-style: italic;
+  src: url("/assets/fonts/LiberationSerif-Italic.ttf");
+}
+@font-face {
+  font-family: "Liberation Serif";
+  font-style: italic;
+  font-weight: bold;
+  src: url("/assets/fonts/LiberationSerif-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "Rosario";
+  src: url("/assets/fonts/Rosario-Regular.ttf");
+}
+@font-face {
+  font-family: "Rosario";
+  font-weight: bold;
+  src: url("/assets/fonts/Rosario-Regular.ttf");
+}
+@font-face {
+  font-family: "Rosario";
+  font-style: italic;
+  src: url("/assets/fonts/Rosario-Italic.ttf");
+}
+@font-face {
+  font-family: "Rosario";
+  font-style: italic;
+  font-weight: bold;
+  src: url("/assets/fonts/Rosario-BoldItalic.ttf");
+}

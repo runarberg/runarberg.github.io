@@ -1,0 +1,321 @@
+.toc {
+  background: rgba(197, 179, 191, 0);
+  counter-reset: toc-part;
+  display: inline-block;
+  opacity: 0.2;
+  overflow-x: hidden;
+  padding: 0 0.8em;
+  position: absolute;
+  right: 0;
+  text-align: right;
+  z-index: 2;
+  -webkit-transition: opacity 0.5s, background 0.5s, box-shadow 0.5s;
+          transition: opacity 0.5s, background 0.5s, box-shadow 0.5s;
+}
+.toc:hover {
+  background: rgba(197, 179, 191, 0.4);
+  box-shadow: -3px 0 5px rgba(153, 121, 142, 0.4);
+  opacity: 1;
+}
+.toc > h3 {
+  display: none;
+}
+.toc ol,
+.toc li,
+.toc h3,
+.toc h4 {
+  margin: 0;
+  padding: 0;
+}
+.toc > ol {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+  list-style: none;
+  height: 40rem;
+}
+.toc > ol > li {
+  margin-bottom: .5em;
+}
+.toc ol label {
+  cursor: pointer;
+  display: block;
+  position: relative;
+}
+.toc ol label::before {
+  counter-increment: toc-part;
+  content: counter(toc-part, upper-roman) ".";
+  position: absolute;
+  left: 0;
+}
+.toc ol ol {
+  list-style: none;
+  overflow: hidden;
+}
+.toc ol ol li {
+  font-size: .9em;
+  max-height: 0;
+  opacity: 0;
+  -webkit-transition: max-height 0.5s, opacity 0.5s;
+          transition: max-height 0.5s, opacity 0.5s;
+}
+.toc ol ol li a {
+  color: inherit;
+}
+.toc ol input[name='toc-state'] {
+  position: absolute;
+  visibility: hidden;
+  z-index: -1;
+}
+.toc ol input[name='toc-state']:checked + ol li {
+  max-height: 1.2em;
+  opacity: 1;
+}
+#toc-map {
+  height: 40rem;
+}
+.toc-spot {
+  background: black;
+  border-radius: 50px;
+  opacity: 0.8;
+}
+.toc-spot:hover,
+.toc-spot.hover {
+  opacity: 1;
+}
+.toc-spot a {
+  background: rgba(192, 192, 128, 0.4);
+  border-radius: 1em;
+  display: none;
+  font-family: "Crimson Text", serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: .2em 1em;
+  position: absolute;
+  white-space: nowrap;
+}
+.toc-spot:hover a,
+.toc-spot.hover a {
+  color: black;
+  display: block;
+}
+.toc-spot.toc-á-íslandi-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-á-íslandi-point a {
+  bottom: -1.7em;
+  left: -1.5em;
+}
+.toc-spot.toc-london-er-rachidia-point {
+  background: url("img/á-íslandi.jpeg");
+  right: -25px;
+}
+.toc-spot.toc-london-er-rachidia-point a {
+  margin: -1.5em 0 0 1.2em;
+}
+.toc-spot.toc-er-rachidia-rabat-point {
+  background: url("img/á-íslandi.jpeg");
+  left: -22px;
+}
+.toc-spot.toc-er-rachidia-rabat-point a {
+  right: -1em;
+  bottom: -1.2em;
+}
+.toc-spot.toc-madrid-point {
+  background: url("img/á-íslandi.jpeg");
+  left: -22px;
+}
+.toc-spot.toc-madrid-point a {
+  left: -1em;
+  top: -1.2em;
+}
+.toc-spot.toc-madrid-havana-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-madrid-havana-point a {
+  left: 3em;
+  top: -1.35em;
+  -webkit-transform: rotate(-11deg);
+      -ms-transform: rotate(-11deg);
+          transform: rotate(-11deg);
+}
+.toc-spot.toc-havana-tulum-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-havana-tulum-point a {
+  left: 1.5em;
+  top: -3em;
+  -webkit-transform: rotate(-31.5deg);
+      -ms-transform: rotate(-31.5deg);
+          transform: rotate(-31.5deg);
+}
+.toc-spot.toc-tulum-santa-elena-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-tulum-santa-elena-point a {
+  left: -12px;
+  top: -75px;
+  -webkit-transform: rotate(-54.7deg);
+      -ms-transform: rotate(-54.7deg);
+          transform: rotate(-54.7deg);
+}
+.toc-spot.toc-santa-elena-xela-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-santa-elena-xela-point a {
+  left: -3em;
+  bottom: -1.35em;
+}
+.toc-spot.toc-xela-utila-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-xela-utila-point a {
+  right: 45px;
+  bottom: 4px;
+  -webkit-transform: rotate(-15deg);
+      -ms-transform: rotate(-15deg);
+          transform: rotate(-15deg);
+}
+.toc-spot.toc-utila-león-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-utila-león-point a {
+  right: -15px;
+  top: -4.2em;
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+.toc-spot.toc-utila-san-josé-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-utila-san-josé-point a {
+  left: -52px;
+  top: -4.8em;
+  -webkit-transform: rotate(72deg);
+      -ms-transform: rotate(72deg);
+          transform: rotate(72deg);
+}
+.toc-spot.toc-león-panamaborg-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-león-panamaborg-point a {
+  right: 40px;
+  top: -1.35em;
+  -webkit-transform: rotate(10deg);
+      -ms-transform: rotate(10deg);
+          transform: rotate(10deg);
+}
+.toc-spot.toc-quito-yurimaguas-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-quito-yurimaguas-point a {
+  right: 0;
+  bottom: 68px;
+  -webkit-transform: rotate(73deg);
+      -ms-transform: rotate(73deg);
+          transform: rotate(73deg);
+}
+.toc-spot.toc-lima-cusco-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-lima-cusco-point a {
+  left: 45px;
+  bottom: 3px;
+  -webkit-transform: rotate(17deg);
+      -ms-transform: rotate(17deg);
+          transform: rotate(17deg);
+}
+.toc-spot.toc-cusco-puno-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-cusco-puno-point a {
+  left: 27px;
+  top: 61px;
+  -webkit-transform: rotate(52deg);
+      -ms-transform: rotate(52deg);
+          transform: rotate(52deg);
+}
+.toc-spot.toc-puno-nazca-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-puno-nazca-point a {
+  left: -2em;
+  top: -1.35em;
+}
+.toc-spot.toc-huacachina-lima-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-huacachina-lima-point a {
+  left: -37px;
+  bottom: 45px;
+  -webkit-transform: rotate(44deg);
+      -ms-transform: rotate(44deg);
+          transform: rotate(44deg);
+}
+.toc-spot.toc-punta-arenas-el-calafate-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-punta-arenas-el-calafate-point a {
+  right: -84px;
+  top: 46px;
+}
+.toc-spot.toc-el-calafate-buenos-aires-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-el-calafate-buenos-aires-point a {
+  right: 0;
+  bottom: -74px;
+  -webkit-transform: rotate(-57deg);
+      -ms-transform: rotate(-57deg);
+          transform: rotate(-57deg);
+}
+.toc-spot.toc-santiago-rapa-nui-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-santiago-rapa-nui-point a {
+  left: 44px;
+  bottom: 8px;
+  -webkit-transform: rotate(11deg);
+      -ms-transform: rotate(11deg);
+          transform: rotate(11deg);
+}
+.toc-spot.toc-los-angiles-canberra-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-los-angiles-canberra-point a {
+  left: 44px;
+  bottom: 58px;
+  -webkit-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+.toc-spot.toc-gold-coast-singapur-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-gold-coast-singapur-point a {
+  right: 25px;
+  bottom: 75px;
+  -webkit-transform: rotate(31deg);
+      -ms-transform: rotate(31deg);
+          transform: rotate(31deg);
+}
+.toc-spot.toc-pulau-batam-bukit-lawang-point {
+  background: url("img/á-íslandi.jpeg");
+}
+.toc-spot.toc-pulau-batam-bukit-lawang-point a {
+  right: -45px;
+  bottom: 102px;
+  -webkit-transform: rotate(48deg);
+      -ms-transform: rotate(48deg);
+          transform: rotate(48deg);
+}

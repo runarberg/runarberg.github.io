@@ -1,0 +1,27 @@
+.main-toc {
+  text-align: center;
+}
+.main-toc a {
+  color: inherit;
+}
+.main-toc > ol,
+.main-toc > ul {
+  display: inline-block;
+  font-size: 1.45em;
+  list-style: upper-roman;
+  padding: 0 3em;
+  text-align: left;
+  font-family: "Liberation Serif", serif;
+}
+.main-toc > ol h3,
+.main-toc > ul h3 {
+  font-size: 1em;
+}
+.main-toc > ol > li > ol,
+.main-toc > ul > li > ol,
+.main-toc > ol > li > ul,
+.main-toc > ul > li > ul {
+  list-style: none;
+  font-family: "Crimson Text", serif;
+  font-size: 0.9em;
+}

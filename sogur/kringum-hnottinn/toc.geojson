@@ -1,0 +1,796 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type": "Feature",
+     "id": "toc-á-íslandi-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-17.562, 61.554]},
+     "properties": {
+       "href": "#á-íslandi",
+       "h1": "Á Íslandi"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-á-íslandi-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-22.4396181106567, 63.8477436480059],
+         [-0.1099, 51.5049]
+       ]},
+     "properties": {
+       "href": "#á-íslandi",
+       "h1": "Á Íslandi"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-london-er-rachidia-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-2.95, 35.30]},
+     "properties": {
+       "href": "#london-er-rachidia",
+       "h1": "London – Er Rachidia"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-london-er-rachidia-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-0.183, 51.833],
+         [-4.417, 31.92]
+       ]},
+     "properties": {
+       "href": "#london-er-rachidia",
+       "h1": "London – Er Rachidia"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-er-rachidia-rabat-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-6.833, 34.033]},
+     "properties": {
+       "href": "#er-rachidia-rabat",
+       "h1": "Er Rachidia – Rabat"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-er-rachidia-rabat-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-4.417, 31.92],
+         [-6.833, 34.033]
+       ]},
+     "properties": {
+       "href": "#er-rachidia-rabat",
+       "h1": "Er Rachidia – Rabat"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-madrid-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-3.71, 40.38]},
+     "properties": {
+       "href": "#madrid",
+       "h1": "Madrid"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-madrid-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-6.833, 34.033],
+         [-3.71, 40.38],
+         [-42, 30]
+       ]},
+     "properties": {
+       "href": "#madrid",
+       "h1": "Madrid"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-madrid-havana-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-82.38, 23.13]},
+     "properties": {
+       "href": "#madrid-havana",
+       "h1": "Madrid – Havana"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-havana-tulum-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-42, 30],
+         [-82.38, 23.13]
+       ]},
+     "properties": {
+       "href": "#havana-tulum",
+       "h1": "Havana – Tulum"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-havana-tulum-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-87.42, 20.22]},
+     "properties": {
+       "href": "#havana-tulum",
+       "h1": "Havana – Tulum"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-havana-tulum-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-82.38, 23.13],
+         [-87.42, 20.22]
+       ]},
+     "properties": {
+       "href": "#havana-tulum",
+       "h1": "Havana – Tulum"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-tulum-santa-elena-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-89.90, 16.92]},
+     "properties": {
+       "href": "#tulum-santa-elena",
+       "h1": "Tulum – Santa Elena"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-tulum-santa-elena-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-87.42, 20.22],
+         [-89.90, 16.92]
+       ]},
+     "properties": {
+       "href": "#tulum-santa-elena",
+       "h1": "Tulum – Santa Elena"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-santa-elena-xela-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-91.52, 14.83]},
+     "properties": {
+       "href": "#santa-elena-xela",
+       "h1": "Santa Elena – Xela"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-santa-elena-xela-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-89.90, 16.92],
+         [-91.52, 14.83]
+       ]},
+     "properties": {
+       "href": "#santa-elena-xela",
+       "h1": "Santa Elena – Xela"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-xela-utila-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-86.93, 16.10]},
+     "properties": {
+       "href": "#xela-utila",
+       "h1": "Xela – Utila"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-xela-utila-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-91.52, 14.83],
+         [-86.93, 16.10]
+       ]},
+     "properties": {
+       "href": "#xela-utila",
+       "h1": "Xela – Utila"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-utila-león-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-86.88, 12.43]},
+     "properties": {
+       "href": "#utila-león",
+       "h1": "Utila – León"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-utila-león-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-86.93, 16.10],
+         [-86.88, 12.43]
+       ]},
+     "properties": {
+       "href": "#utila-león",
+       "h1": "Utila – León"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-utila-san-josé-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-84.83, 9.93]},
+     "properties": {
+       "href": "#utila-san-josé",
+       "h1": "Utila – San José"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-utila-san-jose-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-86.93, 16.1],
+         [-84.83, 9.93]
+       ]},
+     "properties": {
+       "href": "#utila-san-jose",
+       "h1": "Utila – San José"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-león-panamaborg-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.54, 8.97]},
+     "properties": {
+       "href": "#león-panamaborg",
+       "h1": "León – Panamaborg"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-león-panamaborg-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-86.88, 12.43],
+         [-84.83, 9.93],
+         [-79.54, 8.97],
+         [-78.58, -0.25]
+       ]},
+     "properties": {
+       "href": "#león-panamaborg",
+       "h1": "León – Panamaborg"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-quito-yurimaguas-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.08, -5.9]},
+     "properties": {
+       "href": "#quito-yurimaguas",
+       "h1": "Quito – Yurimaguas"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-quito-yurimaguas-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-78.58, -0.25],
+         [-76.08, -5.9]
+       ]},
+     "properties": {
+       "href": "#quito-yurimaguas",
+       "h1": "Quito – Yurimaguas"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-lima-cusco-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.043, -12.028]},
+     "properties": {
+       "href": "#lima-cusco",
+       "h1": "Líma – Cusco"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-lima-cusco-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-76.08, -5.9],
+         [-77.043, -12.028],
+         [-71.972, -13.525]
+       ]},
+     "properties": {
+       "href": "#lima-cusco",
+       "h1": "Líma – Cusco"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-cusco-puno-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-71.972, -13.525]},
+     "properties": {
+       "href": "#cusco-puno",
+       "h1": "Cusco – Puno"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-cusco-puno-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-71.972, -13.525],
+         [-70.017, -15.83]
+       ]},
+     "properties": {
+       "href": "#cusco-puno",
+       "h1": "Cusco – Puno"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-puno-nazca-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-71.537, -16.399]},
+     "properties": {
+       "href": "#puno-nazca",
+       "h1": "Puno – Nazca"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-puno-nazca-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-70.017, -15.83],
+         [-71.537, -16.399],
+         [-74.93, -14.757]
+       ]},
+     "properties": {
+       "href": "#puno-nazca",
+       "h1": "Puno – Nazca"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-huacachina-lima-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-75.758, -14.083]},
+     "properties": {
+       "href": "#huacachina-lima",
+       "h1": "Huacachina – Líma"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-huacachina-lima-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-74.93, -14.757],
+         [-75.758, -14.083],
+         [-77.043, -12.028]
+       ]},
+     "properties": {
+       "href": "#huacachina-lima",
+       "h1": "Huacachina – Líma"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-punta-arenas-el-calafate-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-73, -51]},
+     "properties": {
+       "href": "#punta-arena-el-calafate",
+       "h1": "Punta Arenas – El Calafate"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-punta-arena-el-calafate-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-77.043, -12.028],
+         [-73, -51],
+         [-68.3, -54.8],
+         [-70.933, -53.137],
+         [-73, -51],
+         [-72.28, -50.33]
+       ]},
+     "properties": {
+       "href": "#punta-arenas-el-calafate",
+       "h1": "Punta Arenas – El Calafate"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-el-calafate-buenos-aires-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-58.382, -34.603]},
+     "properties": {
+       "href": "#el-calafate-buenos-aires",
+       "h1": "El Calafate – Buenos Aires"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-punta-arena-el-calafate-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-72.28, -50.33],
+         [-58.382, -34.603],
+         [-70.67, -33.45]
+       ]},
+     "properties": {
+       "href": "#el-calafate-buenos-aires",
+       "h1": "El Calafate – Buenos Aires"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-santiago-rapa-nui-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-109.37, -27.11]},
+     "properties": {
+       "href": "#santiago-rapa-nui",
+       "h1": "Santiago – Rapa Nui"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-santiago-rapa-nui-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-70.67, -33.45],
+         [-109.37, -27.11],
+         [-149.4, -29.7]
+       ]},
+     "properties": {
+       "href": "#santiago-rapa-nui",
+       "h1": "Santiago – Rapa Nui"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-los-angiles-canberra-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [149.124, -35.308]},
+     "properties": {
+       "href": "#los-angiles-canberra",
+       "h1": "Los Angiles – Canberra"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-los-angiles-canberra-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [179.4, -29.7],
+         [151.209, -33.86],
+         [149.124, -35.308]
+       ]},
+     "properties": {
+       "href": "#los-angiles-canberra",
+       "h1": "Los Angiler – Canberra"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-gold-coast-singapur-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [153.028, -27.468]},
+     "properties": {
+       "href": "#gold-coast-singapur",
+       "h1": "Gold Coast – Singapúr"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-gold-coast-singapur-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [151.209, -33.86],
+         [153.028, -27.468],
+         [103.83, 1.283]
+       ]},
+     "properties": {
+       "href": "#gold-coast-singapur",
+       "h1": "Gold Coast – Singapúr"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-pulau-batam-bukit-lawang-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [100.3695, -0.305]},
+     "properties": {
+       "href": "#pulau-batam-bukit-lawang",
+       "h1": "Pulau Batam – Bukit Lawang"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-pulau-batam-bukit-lawang-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [103.83, 1.283],
+         [104.0895, 1.0932],
+         [100.3695, -0.305],
+         [97.65, 3.68],
+         [100.3354, 5.4112]
+       ]},
+     "properties": {
+       "href": "#pulau-batam-bukit-lawang",
+       "h1": "Pulau Batam – Bukit Lawang"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-george-town-ko-phayam-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [98.8388, 8.0110]},
+     "properties": {
+       "href": "#george-town-ko-phayam",
+       "h1": "George Town – Ko Phayam"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-george-town-ko-phayam-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [100.3354, 5.4112],
+         [98.8388, 8.0110],
+         [98.4044, 9.7333],
+         [100.494, 13.753]
+       ]},
+     "properties": {
+       "href": "#george-town-ko-phayam",
+       "h1": "George Town – Ko Phayam"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-george-town-bangkok-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [99.168, 9.360]},
+     "properties": {
+       "href": "#george-town-bangkok",
+       "h1": "George Town – Bangkok"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-george-town-bangkok-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [98.8388, 8.0110],
+         [99.168, 9.360],
+         [100.494, 13.753]
+       ]},
+     "properties": {
+       "href": "#george-town-bangkok",
+       "h1": "George Town – Bangkok"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-bangkok-luang-prabang-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [98.985, 18.79]},
+     "properties": {
+       "href": "#bangkok-luang-prabang",
+       "h1": "Bangkok – Luang Prabang"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-bangkok-luang-prabang-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [100.494, 13.753],
+         [98.985, 18.79],
+         [102.136, 19.889]
+       ]},
+     "properties": {
+       "href": "#bangkok-luang-prabang",
+       "h1": "Bangkok – Luang Prabang"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-bangkok-laos-bangkok-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [102.621, 17.97]},
+     "properties": {
+       "href": "#bangkok-laos-bangkok",
+       "h1": "Bangkok – Laos – Bangkok"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-bangkok-laos-bangkok-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [100.494, 13.753],
+         [102.621, 17.97],
+         [103.153, 19.43]
+       ]},
+     "properties": {
+       "href": "#bangkok-laos-bangkok",
+       "h1": "Bangkok – Laos – Bangkok"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-luang-prabang-vientiane-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [102.136, 19.889]},
+     "properties": {
+       "href": "#luang-prabang-vientiane",
+       "h1": "Luang Prabang – Vientiane"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-luang-prabang-vientiane-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [102.136, 19.889],
+         [102.621, 17.97]
+       ]},
+     "properties": {
+       "href": "#luang-prabang-vientiane",
+       "h1": "Luang Prabang – Vientiane"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-bangkok-kambódía-bangkok-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [104.922, 11.568]},
+     "properties": {
+       "href": "#bangkok-kambódía-bangkok",
+       "h1": "Bangkok – Kambódía – Bangkok"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-bangkok-kambódía-bangkok-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [100.494, 13.753],
+         [103.858, 13.355],
+         [104.922, 11.568]
+       ]},
+     "properties": {
+       "href": "#bangkok-kambódía-bangkok",
+       "h1": "Bangkok – Kambódía – Bangkok"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-vientiane-ha-noi-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [105.853, 21.029]},
+     "properties": {
+       "href": "#vientiane-ha-noi",
+       "h1": "Vientiane – Ha Noi"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-vientiane-ha-noi-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [102.621, 17.97],
+         [105.853, 21.029]
+       ]},
+     "properties": {
+       "href": "#vientiane-ha-noi",
+       "h1": "Vientiane – Ha Noi"
+     }
+    },
+    
+    {"type": "Feature",
+     "id": "toc-ha-noi-van-gia-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [108.328, 15.879]},
+     "properties": {
+       "href": "#ha-noi-van-gia",
+       "h1": "Ha Noi – Van Gia"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-ha-noi-van-gia-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [105.853, 21.029],
+         [108.328, 15.879],
+         [109.221, 12.692]
+       ]},
+     "properties": {
+       "href": "#ha-noi-van-gia",
+       "h1": "Ha Noi – Van Gia"
+     }
+    },    
+    
+    {"type": "Feature",
+     "id": "toc-ho-chi-minh-london-point",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [106.700, 10.778]},
+     "properties": {
+       "href": "#ho-chi-minh-london",
+       "h1": "Ho Chi Minh – London"
+     }
+    },
+    {"type": "Feature",
+     "id": "toc-ho-chi-minh-london-line",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [109.221, 12.692],
+         [106.700, 10.778]
+       ]},
+     "properties": {
+       "href": "#ho-chi-minh-london",
+       "h1": "Ho Chi Minh – London"
+     }
+    }
+  ]
+}
